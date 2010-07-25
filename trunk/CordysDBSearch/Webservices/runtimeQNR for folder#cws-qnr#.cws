@@ -1,0 +1,19 @@
+
+<QualifiedNameRoot
+	type="com.cordys.cws.namespace.qualifiedname.QualifiedNameRoot"
+	RuntimeDocumentID="000c29a3-0824-71df-9250-97cbc12d4bea">
+	<DocumentID>000c29a3-0824-71df-9250-97cbc12d4bb8</DocumentID>
+	<Name>runtimeQNR for folder</Name>
+	<Description>runtimeQNR for folder</Description>
+	<CreatedBy>root</CreatedBy>
+	<CreationDate>2010-07-25T09:32:18.578</CreationDate>
+	<Notes/>
+	<DesigntimeQNRFolder/>
+	<RuntimeQNRFolder>
+		<uri
+			id="000c29a3-0824-71df-9250-97cbc12d500e"
+			path="CordysDBSearch/Webservices"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</RuntimeQNRFolder>
+</QualifiedNameRoot>

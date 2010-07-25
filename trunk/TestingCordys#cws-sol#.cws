@@ -1,0 +1,16 @@
+
+<Solution
+	type="com.cordys.cws.documenttypes.solution.Solution"
+	RuntimeDocumentID="000c29a3-0824-71df-9250-97cbc12d5608">
+	<DocumentID>000c29a3-0824-71df-9250-97cbc12d55cc</DocumentID>
+	<Name>TestingCordys</Name>
+	<Description>TestingCordys</Description>
+	<CreatedBy>root</CreatedBy>
+	<CreationDate>2010-07-25T09:31:06.073</CreationDate>
+	<Notes/>
+	<Projects>
+		<uri
+			id="000c29a3-0824-71df-9250-97cbc12d5338"
+		/>
+	</Projects>
+</Solution>
