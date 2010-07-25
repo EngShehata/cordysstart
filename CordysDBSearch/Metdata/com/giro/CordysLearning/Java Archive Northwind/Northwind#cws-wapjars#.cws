@@ -1,0 +1,39 @@
+
+<WSAppServerJavaArchiveSource
+	type="com.cordys.wsappserver.WSAppServerJavaArchiveSource"
+	RuntimeDocumentID="000c29a3-0824-71df-85d0-97d19172b1f0">
+	<DocumentID>000c29a3-0824-71df-85d0-97d19171d618</DocumentID>
+	<Name>Northwind</Name>
+	<Description>Northwind</Description>
+	<CreatedBy>root</CreatedBy>
+	<CreationDate>2010-07-25T09:47:00.171</CreationDate>
+	<Notes/>
+	<JarFileName>Northwind</JarFileName>
+	<NamespacePrefix></NamespacePrefix>
+	<Dependencies>
+		<JavaArchiveReferenceDependency
+			type="com.cordys.cws.documenttypes.javaarchivesource.JavaArchiveReferenceDependency"
+			RuntimeDocumentID="000c29a3-0824-71df-85d0-97d19177bec0">
+			<DocumentID>000c29a3-0824-71df-85d0-97d1917793be</DocumentID>
+			<Name>Northwind_Dependency</Name>
+			<Description/>
+			<CreatedBy>root</CreatedBy>
+			<CreationDate>2010-07-25T09:47:00.006</CreationDate>
+			<Notes/>
+			<DependsOnJAR>?CORDYS_INSTALL_DIR?/components/wsappserver/wsappserver.jar</DependsOnJAR>
+			<ISVPName></ISVPName>
+		</JavaArchiveReferenceDependency>
+	</Dependencies>
+	<SourceFolder>
+		<uri
+			id="000c29a3-0824-71df-85d0-97d1916ef272"
+			path="CordysDBSearch/Metdata/com/giro/CordysLearning/Java Source Northwind"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<WSAppServerPackage>
+		<uri
+			id="000c29a3-0824-71df-85d0-97d191230218"
+		/>
+	</WSAppServerPackage>
+</WSAppServerJavaArchiveSource>
