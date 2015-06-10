@@ -1,0 +1,1 @@
+a simple project for testing client server communication between cordys xforms and cordys back-end
